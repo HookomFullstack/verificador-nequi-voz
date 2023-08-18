@@ -1,0 +1,17 @@
+{
+  "name": "my-new-project",
+  "devDependencies": {
+    "@wdio/cli": "^8.14.4",
+    "webdriverio": "^8.14.3"
+  },
+  "scripts": {
+    "activateServe": "process.env.PORT"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "env-cmd": "^10.1.0",
+    "lodash": "^4.17.21",
+    "node-cmd": "^5.0.0"
+  }
+}
